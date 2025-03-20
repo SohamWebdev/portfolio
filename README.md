@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshghosh01&label=Profile%20views&color=0e75b6&style=flat" alt="riteshghosh01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/riteshg74046671" target="blank"><img src="https://img.shields.io/twitter/follow/riteshg74046671?logo=twitter&style=for-the-badge" alt="riteshg74046671" /></a> </p>
+<p align="left"> <a href="https://x.com/SOHAMGANGU36817" target="blank"><img src="https://img.shields.io/twitter/follow/SOHAMGANGU36817?logo=twitter&style=for-the-badge" alt="SOHAMGANGU36817" /></a> </p>
 
 - 🔭 I’m currently working on **Robust Human Target Detection & Acquisition**
 

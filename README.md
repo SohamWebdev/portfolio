@@ -15,7 +15,7 @@
 
 - 📫 How to reach me sohamganguly11042002@gmail.com**
 
-- 📄 Know about my experiences: (https://drive.google.com/file/d/15clN3xTCv31ybf_MsJoiHOxq_pw7hegr/view)
+- 📄 Know about my experiences: (https://drive.google.com/file/d/1x4A66VFriNCWhhkcGQXMOx1fhNaanlc7/view?usp=drive_link)
 
 - ⚡ Fun fact **I can solve Rubik's cube.... sometimes**
 
